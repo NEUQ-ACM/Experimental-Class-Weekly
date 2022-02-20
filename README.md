@@ -1,8 +1,8 @@
-# NEUQ-ACM-Weekly-2021
+# Experimental-Class-Weekly
 
-## NEUQ-ACM俱乐部2021级技术部周报收集
+## NEUQ-ACM俱乐部工程创新实践实训实验班周报收集
 
-> 本项目目前用于技术部的周报收集，请不要随意pull request，谢谢
+> 本项目目前用于工程创新实践实训实验班的周报收集，请不要随意pull request，谢谢
 > 
 > This project is currently used for the weekly report collection of the Technical Department in NEUQ-ACM, please do not pull request at will, thank you.
 
@@ -26,7 +26,7 @@
 
 5. 然后写周报
 
-6. 然后`git add file`
+6. 然后`git add .`
 
 7. 然后`git commit -m '某人在5月30日交了周报'`
 
@@ -42,7 +42,7 @@
 
 ### 周报要求
 
-使用Markdown格式编写，上传至相应文件夹中，命名为：xx月xx日（报告的截止日期，一般是周日）
+新建一个自己名字命名的文件夹，使用Markdown格式编写，上传至相应文件夹中，命名为：xx月xx日（报告的截止日期，一般是周日）
 
 无特殊情况，需每周六或周日，有特殊情况交不上来的请与 [OREO-code](http://wpa.qq.com/msgrd?v=3&uin=2319841923&site=qq&menu=yes) 或 [Homie6324](http://wpa.qq.com/msgrd?v=3&uin=761746229&site=qq&menu=yes)    联系，否则可能会被公开处刑。
 
