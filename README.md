@@ -16,7 +16,7 @@
 
 3. 到你fork后的仓库，复制你的仓库地址，本地执行`git clone xxxx`
 
-4. 然后执行`git remote add upstream https://github.com/NEUQ-ACM/NEUQ-ACM-Weekly-2020`，绑定一个别名叫做upstream的仓库，也就是我们的总仓库。
+4. 然后执行`git remote add upstream git@github.com:NEUQ-ACM/Experimental-Class-Weekly.git`，绑定一个别名叫做upstream的仓库，也就是我们的总仓库。
 
 
     `git pull upstream master`
