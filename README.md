@@ -1,6 +1,6 @@
 # Experimental-Class-Weekly
 
-## NEUQ-ACM俱乐部工程创新实践实训实验班周报收集
+## NEUQ-ACM俱乐部2022春季工程创新实践实训实验班周报收集
 
 > 本项目目前用于工程创新实践实训实验班的周报收集，请不要随意pull request，谢谢
 > 
