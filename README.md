@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Experimental-Class-Weekly
 
 ## NEUQ-ACM俱乐部2022春季工程创新实践实训实验班周报收集
